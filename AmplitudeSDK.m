@@ -1,5 +1,5 @@
 #import "AmplitudeSDK.h"
-#import "Amplitude-iOS/Amplitude.h"
+#import "Amplitude.h"
 #import "AMPRevenue.h"
 
 @implementation AmplitudeSDKiOS
